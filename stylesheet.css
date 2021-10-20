@@ -1,0 +1,69 @@
+ *{
+ 	box-sizing :border-box;}
+h1  {
+	font-size: 30px;
+	font-family: verdana sans-serif;
+	text-align: center;
+	color: rgb(blue);
+	margin-bottom: 33px;
+ }
+p  {
+	padding: 15px 5px 0px 5px;
+	font-family: verdana sans-serif;
+   font-size: 20px;
+   position:relative; 
+}
+ section {
+ 	background-color: #fefbd8;
+    border:1px solid blue;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding:3px;
+    text-align: justify;
+    position:relative;
+ }
+span {
+	   font-size: 20px;
+	   width: 140px;
+	   border: 1px solid black;
+	   font-weight: blue;
+	   text-align: justify;
+	   float: right; top: 0; right: 0; margin: 0;
+	   position: absolute;  
+}
+.row{width: 100%
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+
+
+	
+
